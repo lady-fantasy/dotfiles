@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ykordjaz@gmail.com
+	name = yasmine kordjazy
